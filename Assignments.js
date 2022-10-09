@@ -41,7 +41,7 @@ let areaVal = {
 }
 console.log(areaVal.area())
 
-//Assignment 3
+//Assignment 4
 //Write a program to find the area of a square and a rectangle using JavaScript objects with a common area function.(Use this keyword)
 let square = {
     length:3,
